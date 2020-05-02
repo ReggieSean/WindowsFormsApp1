@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
+    //This is a comment
     static class Program
     {
         /// <summary>
